@@ -57,4 +57,4 @@ async def on_member_join(member):
     await client.say(message.channel, "Hello! welcome to my server!")
 
 
-client.run('MzU0NzUyMzc5Mzg5ODcwMDgw.DJC0qw.Rhk1AaLI4j2jfUDhBkBASOiX7uA')
+client.run('Get ur own token -_-')
