@@ -1,2 +1,3 @@
-# Kongou-Bot
+# LOLLOLOLOL Discontinued bot :^)
 Multipurpose bot for Discord!
+
