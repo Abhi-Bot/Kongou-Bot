@@ -1,3 +1,5 @@
 # LOLLOLOLOL Discontinued bot :^)
-Multipurpose bot for Discord!
+It still exists because I don't know how to delete it
+
+~~Multipurpose bot for Discord!~~
 
